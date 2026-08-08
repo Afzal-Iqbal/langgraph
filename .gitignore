@@ -1,5 +1,4 @@
 .vs/
-.vscode/
 .idea/
 # Byte-compiled / optimized / DLL files
 __pycache__/
@@ -75,7 +74,6 @@ ipython_config.py
 __pypackages__/
 
 # Environments
-.env
 .envrc
 .venv
 .venvs
@@ -101,3 +99,5 @@ dmypy.json
 .editorconfig
 .scratch
 .worktrees/
+config.bat
+node_modules
